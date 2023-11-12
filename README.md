@@ -1,5 +1,5 @@
 
-# React Records Deletion App
+# React Records App
 
 This is a simple React app that allows users to add records with a name and age, and delete records by clicking on them.
 
